@@ -7,3 +7,4 @@ delete
 *.rar
 voc2yolo.py
 check_voc.py
+.idea
